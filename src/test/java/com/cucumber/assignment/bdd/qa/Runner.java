@@ -10,7 +10,5 @@ import org.junit.runner.RunWith;
                  plugin = {"json:src/test/java/TripJson.json",
                            "html:src/test/java/CucReport.html",
                            "pretty"} )
-public class Runner
-{
-
+public class Runner{
 }
